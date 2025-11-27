@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bisangoding-id/chatbot-whatsapp/main/assets/THUMB.jpg" width="600" />
+</p>
+
 # Deskripsi Project
 
 Project ini merupakan contoh implementasi **Chatbot WhatsApp berbasis Webhook menggunakan PHP 8** yang dirancang untuk membuat sistem **WhatsApp Bot**, **auto-reply WhatsApp**, dan **WhatsApp automation** dengan cepat dan mudah. Sistem ini sudah terhubung ke **database MySQL**, sehingga dapat menyimpan data pendaftaran, log pesan, atau informasi pengguna untuk berbagai kebutuhan aplikasi.
