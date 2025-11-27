@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap');
+    body {
+        font-family:'DM Sans';
+        background: #f2f2f2;
+        padding: 30px;
+    }
+    h2 {
+        text-align: center;
+        color: #333;
+    }
+    .container {
+        width: 400px;
+        background: white;
+        padding: 25px;
+        margin: auto;
+        margin-bottom: 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    input, button {
+        width: 100%;
+        padding: 10px;
+        margin: 8px 0;
+        border-radius: 5px;
+        border: 1px solid #ccc;
+        font-size:14px;
+    }
+    button {
+        background: #4CAF50;
+        color: white;
+        cursor: pointer;
+        border: none;
+    }
+    button:hover {
+        background: #45a049;
+    }
+    .success {
+        background: #d4f8d4;
+        padding: 10px;
+        border-left: 6px solid #2e7d32;
+        margin-top: 20px;
+        border-radius: 5px;
+        margin: auto;
+        width: 420px;
+    }
+    .error {
+        background: #ffd4d4;
+        padding: 10px;
+        border-left: 6px solid #d32f2f;
+        margin-top: 20px;
+        border-radius: 5px;
+        margin: auto;
+        width: 420px;
+    }
