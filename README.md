@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bisangoding-id/chatbot-whatsapp/main/assets/THUMB.jpg" width="600" />
+  <img src="https://raw.githubusercontent.com/bisangoding-id/chatbot-whatsapp/THUMB.jpg" width="600" />
 </p>
 
 # Deskripsi Project
