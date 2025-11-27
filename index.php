@@ -33,7 +33,7 @@ if (isset($_POST['kirim'])) {
     $stmt->execute();
     $stmt->close();
 
-    $token = "6RtjpBVYHSwFTCrBHxs7"; // Seusaikan tokennya
+    $token = ""; // Seusaikan tokennya
 
 $pesan = "
 Halo $nama, terima kasih sudah registrasi! 
@@ -79,3 +79,4 @@ $data = [
 }
 
 ?>
+
