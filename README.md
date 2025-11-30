@@ -46,4 +46,3 @@ Tutorial mencakup:
 - Pembuatan auto-reply WhatsApp berbasis kata kunci
 - Penyimpanan data ke MySQL
 
-Dengan kode yang bersih dan dokumentasi yang jelas, project ini menjadi fondasi ideal untuk membangun **WhatsApp Bot profesional berbasis PHP 8, MySQL, dan layanan API WhatsApp gratis**.
